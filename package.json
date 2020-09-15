@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-docs",
+  "version": "1.0.1",
+  "description": "Node.js docs parser",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "cd test && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snowflake107/nodejs-docs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "nodejs-docs",
+    "docs",
+    "api"
+  ],
+  "author": "Snowflake107",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Snowflake107/nodejs-docs/issues"
+  },
+  "homepage": "https://github.com/Snowflake107/nodejs-docs#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
